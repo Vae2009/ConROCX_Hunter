@@ -1,0 +1,11 @@
+## Title:-|cffFFFFFFConROCX|r- |cffABD473Hunter|r
+## Version: 2.0.2
+## Author: Vae 2.0.2 updated by Lith
+## Interface: 30403
+## SavedVariablesPerCharacter: ConROCHunterSpells
+## Dependencies: ConROCX
+## LoadOnDemand: 1
+
+hunter_ids.lua
+hunter_spellmenu.lua
+hunter.lua
