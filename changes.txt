@@ -1,4 +1,4 @@
-Ver 2.0.2
+Ver 3.4.3
 	-Started to add support for translations.
 Ver 1.13.11
 	-Added optionals for MultiShot within single target but also added it back into AoE toggle.
