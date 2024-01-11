@@ -137,7 +137,7 @@ function ConROC:SpellmenuClass()
 	    spells = {
 	    	{spellID = ids.optionMaxIds.HuntersMark, spellCheckbox = "Ability_HuntersMark", reqLevel = 6, type="spell"},
 	    	{spellID = ids.optionMaxIds.MultiShot, spellCheckbox = "Ability_MultiShot", reqLevel = 18, type="spell"},
-	    	{spellID = ids.optionMaxIds.AimedShot, spellCheckbox = "Ability_AimedShot", reqLevel = 1, type="spell"},
+	    	{spellID = ids.optionMaxIds.AimedShot, spellCheckbox = "Ability_AimedShot", reqLevel = 20, type="spell"},
 	    	{spellID = ids.optionMaxIds.RapidFire, spellCheckbox = "Ability_RapidFire", reqLevel = 26, type="spell"},
 	    	{spellID = ids.optionMaxIds.BestialWrath, spellCheckbox = "Ability_BestialWrath", reqLevel = 40, type="spell"}
 	    	

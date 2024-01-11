@@ -1,6 +1,6 @@
 ## Title:-|cffFFFFFFConROCX|r- |cffABD473Hunter|r
-## Version: 3.4.0
-## Author: Vae 3.4.0 updated by Lith
+## Version: 3.4.1
+## Author: Vae 3.4.1 updated by Lith
 ## Interface: 30403
 ## SavedVariablesPerCharacter: ConROCHunterSpells
 ## Dependencies: ConROCX
